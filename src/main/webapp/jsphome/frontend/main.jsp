@@ -33,13 +33,13 @@
           <div class="item active container1">
             <img src="/jsphome/frontend/images/test1.jpg" alt="공공도서관" style="width:1280px;height:500px;">
             <div class="carousel-caption">
-              공공 도서관 노트북
+              
             </div>
           </div>
           <div class="item container1">
             <img src="/jsphome/frontend/images/test2.jpg" alt="공공도서관" style="width:1280px;height:500px;">
             <div class="carousel-caption">
-              공공 도서관 자리
+              
             </div>
           </div>
           ...
